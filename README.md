@@ -12,7 +12,7 @@ Si vous modifiez ou utilisez ces données dans d’autres œuvres dérivées, vo
 
 # À propos
 
-Cet export GTFS correspond à un sous-ensemble des lignes de transport qui circulent dans le district du Grand Abidjan.
+Cet export GTFS correspond à un sous-ensemble des lignes de transport (officiel et informel) qui circulent dans le district du Grand Abidjan. Un export plus complet est également disponible dans le centre de ressources du site [DigitalTransport4Africa](https://git.digitaltransport4africa.org/data/africa/abidjan/-/tree/master/Donn%C3%A9es).
 
 Une question, un problème avec ces données ? Contactez-nous à l’adresse contact-arobase-junglebus.io ou via notre compte Twitter @BusJungle.
 
